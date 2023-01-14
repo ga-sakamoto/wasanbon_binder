@@ -3,3 +3,8 @@ MarkerPoseEstimation:
   type: git
   url: https://github.com/rsdlab/MarkerPoseEstimation.git
   platform: win, ubuntu
+aaa:
+  description: bbb
+  type: git
+  url: ccc.git
+  platform: win
