@@ -7,4 +7,4 @@ aaa:
   description: bbb
   type: git
   url: ccc.git
-  platform: win
+  platform: win, osx, ubuntu
